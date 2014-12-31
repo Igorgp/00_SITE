@@ -19,3 +19,6 @@ html, body {height: 100%;}
 
 #header {background-color: rgba(5,10,10,0.8); border-bottom: 1px dashed #c8c8c8; height: 80px;}
 #header .center {height: 80px;}
+
+#footer {background-color: rgba(5,10,10,0.8); border-bottom: 1px dashed #c8c8c8; height: 180px;}
+#header .center {height: 180px;}
